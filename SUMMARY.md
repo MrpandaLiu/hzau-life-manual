@@ -2,10 +2,15 @@
 
 * [Introduction](README.md)
 * [序](./序.md)
-* [第一章 GitBook的初识](./chapter1/GitBook的初识.md)
-    * [第1节 GitBook简介](./chapter1/GitBook简介.md)
-    * [第2节 GitBook的目录结构](./chapter1/GitBook的目录结构.md)
-* [第二章 构建GitBook](./chapter2/构建GitBook.md)
-    * [第1节 初始化GitBook项目](./chapter2/初始化GitBook项目.md)
-    * [第2节 Web化访问Gitbook](./chapter2/Web化访问GitBook.md)
+
+## 第一章 思考篇
+
+* [欢迎来到华中农业大学](./chapter1/欢迎来到HZAU.md)
+
+## 第二章 学业篇
+
+## 第三章 分享篇 
+
+* [本科生就业分享](./chapter3/jiu-ye/分享篇.md)
+    * [计科18级-畅喵-研发工程师](./chapter3/jiu-ye/计科18级-畅喵-研发工程师.md)
 
