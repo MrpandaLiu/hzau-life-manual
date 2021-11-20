@@ -5,9 +5,10 @@
 
 ## 第一章 思考篇
 
-* [欢迎来到华中农业大学](./chapter1/欢迎来到HZAU.md)
+* [欢迎来到 HZAU](./chapter1/欢迎来到HZAU.md)
 
 ## 第二章 学业篇
+* [本科专业介绍](./chapter2/zhuan-ye-jie-shao/introduction.md)
 
 ## 第三章 分享篇 
 
